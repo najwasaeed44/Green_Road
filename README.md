@@ -225,16 +225,13 @@ Dataset:
 5) [smartathon dataset](https://smartathon.hackerearth.com/#themes)
 
 
-
-
-
 Notebooks:
 1) Follow the potholes classifier.ipynb notebook
 2) Follow the GRAY_DEPTH_MODEL_WITH_nyu_depth_images.ipynb notebook
 3) Follow the 3-D reconstruction.ipynb notebook
 4) Follow the 3-D reconstruction.ipynb notebook
 
-
+To test the models you need to load the weights for [mask](https://drive.google.com/file/d/1kTml8mb_WrKUFmVXPGJPVt-jSWLdNd3I/view?usp=sharing) and [depth](https://drive.google.com/file/d/1-3fUzTY_Qtgkxi9IZbl1p-Sc8F8cEmef/view?usp=share_link) model from drive. As well as the [test](https://drive.google.com/drive/folders/1KQIbPyQqoUnnMSJKwgbqLDJl4jHiDJ53?usp=share_link) dataset. 
 
 
 
