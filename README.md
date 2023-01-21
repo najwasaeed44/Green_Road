@@ -163,7 +163,7 @@ A combination of the masks plus a decent depth map might improve the outcomes an
 
 
 
-<img src="https://media.baamboozle.com/uploads/images/67969/1595412283_471863" alt="Smiley face" width="60" height="60" style="float:left">
+<img src="https://media.baamboozle.com/uploads/images/67969/1595412283_471863" alt="Smiley face" width="60" height="60" align="left">
 
 ## How Green Road could be implemented in real life?
 <hr style="height:1.5px;border-width:10;color:blue;background-color:black">
